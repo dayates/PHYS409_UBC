@@ -1,0 +1,13 @@
+Temperature,50 C,,,
+Ch 1,Sweep current monitor (across 1 Ohm resistor),,,
+Ch 2,Detector signal,,,
+,,,,
+File,Isotope,Main coil current (A),RF frequency (MHz),RF amplitude (Vpp)
+3,87Rb,1,6.08,2
+5,87Rb,1,6.08,1
+12,87Rb,1.99,12.3,1
+13,87Rb,1.99,12.3,2
+17,85Rb,1.008,4.13,1
+21,85Rb,1.008,4.13,2
+23,85Rb,2.004,8.28,1
+27,85Rb,2.004,8.28,2
