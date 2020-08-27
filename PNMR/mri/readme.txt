@@ -1,0 +1,1 @@
+The scope is set up to show the mixer signal after a single 90 deg pulse detuned from resonance by ~50 kHz. The number after the underscore in each file indicates the orientation of the sample in degrees. At 0 deg, the separation between the glycerin bubbles is along the direction of the gradient; at 90 deg, the separation is perpendicular to the gradient.
