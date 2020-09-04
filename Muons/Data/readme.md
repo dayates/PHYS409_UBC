@@ -3,6 +3,7 @@ Information on run parameters
 Parameters will include angle movement size [degrees], time of each scan [minutes], Quad Discriminator (QD) 1 and 2 counting rate [Hz], Quad Discriminator width [ns], Quad Coincidence (QC) counting rate [Hz]
 
 |File Name|	        Angle	Time|	QD1 Rate|  QD2 Rate|	QD Width|	QC Rate|
+|---||---||---||---||---||---|
 |05082020_Scan1.dat|	10|	150|	  35|        35|      25|	        1|
 
 06082020_Scan2.dat	10	150	  35	      35        25	        1
