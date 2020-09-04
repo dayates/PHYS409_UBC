@@ -1,0 +1,17 @@
+Parameters for different runs. Parameters will include angle movement size [degrees], time of each scan [minutes], Quad Discriminator (QD) counting rate [Hz], Quad Discriminator width [ns], Quad Coincidence (QC) counting rate [Hz]
+
+File Name	Angle	Time	QD Rate	QD Width	QC Rate
+05082020_Scan1.dat	10	150	35	25	1
+06082020_Scan2.dat	10	150	35	25	1
+07082020_Scan3.dat	10	150	35	25	1
+08082020_Scan1.dat	10	150	35	25	40
+09082020_Scan2.dat	10	150	35	25	40
+10082020_Scan3.dat	10	150	35	25	40
+11082020_Scan4.dat	10	150	35	25	40
+12082020_Scan5.dat	10	150	35	25	40
+15082020_Scan1.dat	5	150	35	25	40
+17082020_Scan2.dat	5	150	35	25	40
+19082020_Scan3.dat	5	150	35	25	40
+21082020_Scan4.dat	5	150	35	25	40
+23082020_Scan5.dat	5	150	35	25	40
+Scans_to_be_collected_this_weekend	5	150	10	25	1
