@@ -27,7 +27,7 @@ where the distance is the lateral distance that the source has been moved.
 
 ## Which run is which?
 
-The following table provides relevant information regarding the configurations used for each of the data runs.
+The following table provides relevant information regarding the configurations used for each of the data runs. runs 001-004 have not been labelled in this table. As it is up to you to identify the data sets with their respective parameter settings.
 
 | Run # | Number of Sources | Detector separation [mm] | Lead slit width [mm] | Copper slit width [mm] | y distance moved [mm] | y distance step [mm] | total angular rotation [deg.] | angular rotation step [deg.] | number of collections per point | collection time [sec.] |
 |-------|-------------------|--------------------------|----------------------|------------------------|-----------------------|----------------------|-------------------------------|------------------------------|---------------------------------|------------------------|
