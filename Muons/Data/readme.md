@@ -1,6 +1,25 @@
-Information on run parameters
+# Run Information
+## Individual File Format
 
-Parameters will include angle movement size [degrees], time of each scan [minutes], Quad Discriminator (QD) 1 and 2 counting rate [Hz], Quad Discriminator width [ns], Quad Coincidence (QC) counting rate [Hz]
+File names are formatted as such:
+
+DDMMYY_ScanN.dat
+
+Within the data file, the format is:
+
+Header1 Header2
+
+Angle1  Counts1
+
+Angle2  Counts2
+
+...
+
+AngleN  CountsN
+
+## Data Acquisition Parameters
+
+Parameters set on the data acquisition system (DAQ) for each run. Parameters will include angle movement size [degrees], time of each scan [minutes], Quad Discriminator (QD) 1 and 2 counting rate [Hz], Quad Discriminator width [ns], Quad Coincidence (QC) counting rate [Hz].
 
 |File Name|Angle (degrees)|Time (minutes)|QD1 Rate (Hz)|QD2 Rate (Hz)|QD Width (ns)|QC Rate (Hz)|
 |---|---|---|---|---|---|---|
