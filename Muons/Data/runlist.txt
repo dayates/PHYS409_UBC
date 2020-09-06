@@ -1,3 +1,4 @@
+run list for muon data
 05082020_Scan1.dat
 06082020_Scan2.dat
 07082020_Scan3.dat
