@@ -12,3 +12,8 @@ run list for muon data
 19082020_Scan3.dat
 21082020_Scan4.dat
 23082020_Scan5.dat
+29082020_Scan1.dat
+31082020_Scan2.dat
+02092020_Scan3.dat
+04092020_Scan4.dat
+06092020_Scan5.dat
