@@ -41,5 +41,10 @@ Parameters set on the data acquisition system (DAQ) for each run. Parameters wil
 |02092020_Scan3.dat|5|150|10|10|25|1|
 |04092020_Scan4.dat|5|150|10|10|25|1|
 |06092020_Scan5.dat|5|150|10|10|25|1|
-|collection in progress|5|150|10|10|15|1|
+|08092020_Scan1.dat|5|150|10|10|15|1|
+|10092020_Scan2.dat|5|150|10|10|15|1|
+|12092020_Scan3.dat|5|150|10|10|15|1|
+|14092020_Scan4.dat|5|150|10|10|15|1|
+|16092020_Scan5.dat|5|150|10|10|15|1|
+|collection in progress|10|150|10|10|15|1|
 
