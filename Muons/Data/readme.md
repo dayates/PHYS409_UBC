@@ -7,7 +7,7 @@ The file "runlist.txt" contains a list of all file names within this directory.
 
 File names are formatted as such:
 
-DDMMYY_ScanN.dat
+DDMMYYYY_ScanN.dat
 
 Within the data file, the format is:
 
