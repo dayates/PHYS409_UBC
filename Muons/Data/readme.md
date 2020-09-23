@@ -1,4 +1,8 @@
 # Run Information
+
+The file "runlist.txt" contains a list of all file names within this directory.
+
+
 ## Individual File Format
 
 File names are formatted as such:
