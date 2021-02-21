@@ -1,5 +1,9 @@
 # Positron Emission Tomography
 
+## Which run is which?
+
+The sheet in [this file](https://docs.google.com/spreadsheets/d/13XCm0C1i5AAMUfErssmMvvk31R0u61NUlUm9d0b30Ho/edit?usp=sharing) provides information on the various data runs.
+
 ## Format of individual data files
 
 Data is collected in a file with the following naming format:
@@ -24,19 +28,3 @@ Distance (mm)	Counts
 .
 
 where the distance is the lateral distance that the source has been moved.
-
-## Which run is which?
-
-The following table provides relevant information regarding the configurations used for each of the data runs. runs 001-004 have not been labelled in this table. As it is up to you to identify the data sets with their respective parameter settings.
-
-| Run # | Number of Sources | Detector separation [mm] | Lead slit width [mm] | Copper slit width [mm] | y distance moved [mm] | y distance step [mm] | total angular rotation [deg.] | angular rotation step [deg.] | number of collections per point | collection time [sec.] |
-|-------|-------------------|--------------------------|----------------------|------------------------|-----------------------|----------------------|-------------------------------|------------------------------|---------------------------------|------------------------|
-| ???   | 1                 | 122 +/- 3                | 4                    | 4                      | 20                    | 0.5                  | N/A                           | N/A                          | 1                               | 30                     |
-| ???   | 1                 | 122 +/- 3                | 2                    | 2                      | 20                    | 0.5                  | N/A                           | N/A                          | 1                               | 30                     |
-| ???   | 1                 | 122 +/- 3                | 0                    | 2                      | 20                    | 0.5                  | N/A                           | N/A                          | 1                               | 30                     |
-| ???   | 1                 | 244 +/- 3                | 2                    | 2                      | 20                    | 0.5                  | N/A                           | N/A                          | 1                               | 30                     |
-| 005   | 2                 | 122 +/- 3                | 2                    | 2                      | 20                    | 0.5                  | 180                           | 3.6                          | 1                               | 30                     |
-| 006   | 1                 | 122 +/- 3                | Not in place         | 9.82 +/- 0.05          | N/A                   | N/A                  | N/A                           | N/A                          | 4                               | 30                     |
-| 007   | 1                 | 122 +/- 3                | 0                    | 9.82 +/- 0.05          | N/A                   | N/A                  | N/A                           | N/A                          | 4                               | 30                     |
-| 008   | 1                 | 122 +/- 3                | Not in place         | 0                      | N/A                   | N/A                  | N/A                           | N/A                          | 4                               | 30                     |
-| 009   | 1                 | 122 +/- 3                | 0                    | 0                      | N/A                   | N/A                  | N/A                           | N/A                          | 4                               | 30                     |
